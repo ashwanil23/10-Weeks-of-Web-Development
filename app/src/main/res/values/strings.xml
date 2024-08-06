@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">10 Weeks Of Web Dev</string>
+
+    <string name="week1_title">Basics of Web Development</string>
+    <string name="week1_description">Start with the fundamentals of HTML, CSS, and JavaScript. Learn the syntax, basic tags, styles, and how to make simple interactive elements.</string>
+
+    <string name="week2_title">Introduction to Front-End Frameworks</string>
+    <string name="week2_description">Choose a front-end framework like React, Angular, or Vue.js. Follow tutorials and build small projects to understand components, state management, and routing.</string>
+
+    <string name="week3_title">Advanced Front-End Techniques</string>
+    <string name="week3_description">Dive deeper into your chosen front-end framework. Learn about advanced concepts such as hooks in React, services in Angular, or Vuex in Vue.js.</string>
+
+    <string name="week4_title">Basics of Back-End Programming</string>
+    <string name="week4_description">Pick a back-end language and framework, such as Node.js with Express.js. Learn how to set up a server, handle requests and responses, and connect to a database.</string>
+
+    <string name="week5_title">Database Fundamentals</string>
+    <string name="week5_description">Understand the basics of databases. Learn SQL for relational databases and NoSQL for document-based databases. Practice CRUD operations.</string>
+
+    <string name="week6_title">Connecting Front-End to Back-End</string>
+    <string name="week6_description">Learn how to connect your front-end with your back-end. Understand RESTful APIs, make HTTP requests, and handle data in your front-end application.</string>
+
+    <string name="week7_title">Version Control with Git</string>
+    <string name="week7_description">Get comfortable with Git and GitHub. Learn basic commands, branching, merging, and how to collaborate with others on projects.</string>
+
+    <string name="week8_title">Building Full-Stack Projects</string>
+    <string name="week8_description">Apply your skills by building full-stack projects. Start with simple applications and gradually add complexity. Focus on end-to-end functionality.</string>
+
+    <string name="week9_title">Exploring DevOps Basics</string>
+    <string name="week9_description">Learn the basics of deploying applications and managing servers. Understand the concepts of CI/CD, containerization with Docker, and using cloud services like AWS or Azure.</string>
+
+    <string name="week10_title">Final Project and Review</string>
+    <string name="week10_description">Work on a final project that showcases everything you\'ve learned. Review your progress, identify areas for improvement, and plan your next steps in web development.</string>
+
+    <string name="week1">Week 1</string>
+    <string name="week2">Week 2</string>
+    <string name="week3">Week 3</string>
+    <string name="week4">Week 4</string>
+    <string name="week5">Week 5</string>
+    <string name="week6">Week 6</string>
+    <string name="week7">Week 7</string>
+    <string name="week8">Week 8</string>
+    <string name="week9">Week 9</string>
+    <string name="week10">Week 10</string>
+
+
+</resources>
